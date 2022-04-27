@@ -17,10 +17,11 @@
 
 ##### Operadores Aritméticos
 
- - O que são Operadores Aritméticos
- - Como usar cada tipo de Operador Aritméticos.
+ - O que são Operadores
+ - Como usar cada tipo de Operador (Pós-prefixado, pré-fixado, aritméticos e de atribuição).
+ - E a precedência(a ordem) de execução de expressões, que ultilizam dois ou mais tipos de operações, na mesma expressão.
 
-[]()
+[Ultilzando Operadores no Java](https://github.com/Brunarquino/VTO/blob/master/src/dio/operadoresaritm%C3%A9ticos/AulaTres.java)
 
 ##### Conversoes (Casting)
 
