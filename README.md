@@ -13,7 +13,7 @@
  - O que são tipos de dados?
  - Como e quando usar cada um dos tipos de dados(Textual, Númeral e Lógico).
 
-[Ultilizando os tipos de dados no Java](https://github.com/Brunarquino/VTO/tree/master/src/dio/tiposdedados)
+[Ultilizando os tipos de dados no Java](https://github.com/Brunarquino/VTO/blob/master/src/dio/tiposdedados/AulaDois.java)
 
 ##### Operadores Aritméticos
 
