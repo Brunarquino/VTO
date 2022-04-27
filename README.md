@@ -26,7 +26,9 @@
 ##### Conversoes (Casting)
 
 - O que é casting
-- Tipos de casting
+- Tipos de casting (Upcast (implícito) - Promoção | Downcast (explícito) - Rebaixar)
 - Como e quando utilizá-lo
 
-[]()
+[Ultilizando Conversões no java](https://github.com/Brunarquino/VTO/blob/master/src/dio/conversoes/AulaQuatro.java)
+
+
